@@ -32,8 +32,3 @@
 <hr />
 
 ![2025 Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=crgioyalux&from=2025-01-01&to=2026-01-01&custom_title=2025%20Contributions%20Graph&theme=tokio-night)
-
-<div>
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=crgioyalux&locale=en&hide_title=true&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
