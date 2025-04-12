@@ -4,7 +4,7 @@
 <hr />
 
 - Reach me on [Linkedin](https://www.linkedin.com/in/sergioyalux/).
-- You can also take a closer look at what I’ve done on [my personal page](https://sergioyalux.vercel.app/).
+- You can also take a closer look at what I’ve done on [my personal page](https://sergioyalux.site/).
 
 <hr />
 
