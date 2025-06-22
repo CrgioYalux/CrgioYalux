@@ -1,10 +1,9 @@
-<h1 align="center">Hey! I'm Sergio Yalux</h1>
-<h3 align="center">A passionate Web Developer from Argentina 🇦🇷</h3> 
+Hi there
 
 <hr />
 
 - Reach me on [Linkedin](https://www.linkedin.com/in/sergioyalux/).
-- You can also take a closer look at what I’ve done on [my personal page](https://sergioyalux.site/).
+- You can check out what I’ve done on [my page](https://sergioyalux.site/).
 
 <hr />
 
@@ -28,7 +27,3 @@
     <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
 </p>
-
-<hr />
-
-![2025 Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=crgioyalux&from=2025-01-01&to=2026-01-01&custom_title=2025%20Contributions%20Graph&theme=tokio-night)
