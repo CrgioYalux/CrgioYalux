@@ -2,12 +2,7 @@ Hi there
 
 <hr />
 
-- Reach me on [Linkedin](https://www.linkedin.com/in/sergioyalux/).
-- You can check out what I’ve done on [my page](https://sergioyalux.site/).
-
-<hr />
-
-<h3 align="left">Sofware I'm currently using:</h3>
+<h3 align="left">stuff i enjoy</h3>
 <p align="left">
     <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40" /> </a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
